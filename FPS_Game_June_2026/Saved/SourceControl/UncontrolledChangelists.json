@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/9/2V/E7T7PPJK36L14MTUEG87MI.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/Cylinder_CC73E67C.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/7/IX/DQAAGJYJ1I3B1FTOR5GL65.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/5/ME/FEQPC4EAF0Z5WEV8S5J8TS.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/4/96/QZZRCCGJ15CFZI0MCPNO4G.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/8/UJ/J40MD6H7PTG8FHSJDPI6F4.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/Combined_A9537299.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/3/G2/GS83T538ELF1KZKVEO0APE.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/A/Y8/ZMW2NCJX7CYCX3I9C5TYDP.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/Combined_FC7B84E0.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/SM_Flashlight.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/SM_Key.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Meshes/SM_Key.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Meshes/SM_Flashlight.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/Combined_7481CA57.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/SM_Camera.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Meshes/SM_Camera.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Meshes/NewBlueprint.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/__ExternalActors__/StarterContent/Maps/FirstPersonMap/1/7K/99PNWZDUN5MWRSQUWQFHF9.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/Maps/_GENERATED/bvotano/Cylinder_6D3EFE76.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/LevelPrototyping/Meshes/SM_Camera.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/LevelPrototyping/Meshes/SM_Flashlight.uasset",
+				"X:/AGA201c/Week 05/FPS_Game_Part_1_Start/Content/StarterContent/LevelPrototyping/Meshes/SM_Key.uasset"
+			]
+		}
+	]
+}
