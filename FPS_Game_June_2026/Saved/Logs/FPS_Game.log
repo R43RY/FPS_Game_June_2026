@@ -1114,3 +1114,4 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 
 [2026.07.28-06.00.52:828][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 87.485 ms
 [2026.07.28-06.00.52:954][  1]LogSourceControl: Uncontrolled asset discovery finished in 0.275789 seconds (Found 7373 uncontrolled assets)
+[2026.07.28-06.02.47:510][622]LogDerivedDataCache: C:/Users/tnguyen24/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
